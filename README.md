@@ -1,4 +1,4 @@
 # Aev-sms
 AEV-SMS ANTİNİN TERMUX VERSİONUDUR.
 
-http://prnt.sc/122o0w9
+https://i.hizliresim.com/5yt5jz.jpg
