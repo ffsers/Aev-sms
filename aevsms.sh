@@ -1,0 +1,2 @@
+clear
+python .aevsms.py
